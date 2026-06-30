@@ -1,6 +1,6 @@
 {
   "name": "Rich Presence",
-  "description": "Sets Discord Rich Presence for your profile.",
+  "description": "Full Discord Rich Presence — all fields, live preview, profiles, presets, import/export.",
   "authors": [
     {
       "name": "pylix",
